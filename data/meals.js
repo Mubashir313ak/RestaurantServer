@@ -5,7 +5,8 @@ const sampleAppetizers = [
       "Grilled bread topped with fresh tomatoes, basil, and balsamic glaze.",
     price: 7.99,
     category: "67c03ab86bd70b43fec60860", // Use the category ID for Appetizers
-    imageUrl: "https://your-image-url.com/bruschetta.jpg",
+    imageUrl:
+      "https://res.cloudinary.com/dsbhwx3dw/image/upload/v1740827860/ns2du7gjhqhqzppea2yg.jpg",
   },
   {
     name: "Stuffed Mushrooms",
@@ -13,7 +14,8 @@ const sampleAppetizers = [
       "Mushrooms filled with garlic, cheese, and herbs, baked to perfection.",
     price: 8.49,
     category: "67c03ab86bd70b43fec60860",
-    imageUrl: "https://your-image-url.com/stuffed_mushrooms.jpg",
+    imageUrl:
+      "https://res.cloudinary.com/dsbhwx3dw/image/upload/v1740827962/yzbbvroibbscd2uvkkzj.jpg",
   },
   {
     name: "Chicken Wings",
@@ -21,7 +23,8 @@ const sampleAppetizers = [
       "Crispy fried wings tossed in your choice of sauce: BBQ, buffalo, or garlic parmesan.",
     price: 10.99,
     category: "67c03ab86bd70b43fec60860",
-    imageUrl: "https://your-image-url.com/chicken_wings.jpg",
+    imageUrl:
+      "https://res.cloudinary.com/dsbhwx3dw/image/upload/v1740828036/gdufkemi19drs6tqmwac.jpg",
   },
   {
     name: "Fried Calamari",
@@ -29,7 +32,8 @@ const sampleAppetizers = [
       "Tender squid lightly battered and fried, served with marinara dipping sauce.",
     price: 12.99,
     category: "67c03ab86bd70b43fec60860",
-    imageUrl: "https://your-image-url.com/fried_calamari.jpg",
+    imageUrl:
+      "https://res.cloudinary.com/dsbhwx3dw/image/upload/v1740828155/gwizvbd13xesyu2extjo.jpg",
   },
   {
     name: "Spinach and Artichoke Dip",
@@ -37,7 +41,8 @@ const sampleAppetizers = [
       "Creamy spinach and artichoke dip served with tortilla chips or bread.",
     price: 9.49,
     category: "67c03ab86bd70b43fec60860",
-    imageUrl: "https://your-image-url.com/spinach_artichoke_dip.jpg",
+    imageUrl:
+      "https://res.cloudinary.com/dsbhwx3dw/image/upload/v1740828248/jeulqtofhrng80sberze.jpg",
   },
   {
     name: "Mozzarella Sticks",
@@ -45,34 +50,39 @@ const sampleAppetizers = [
       "Crispy fried mozzarella sticks served with marinara sauce for dipping.",
     price: 8.99,
     category: "67c03ab86bd70b43fec60860",
-    imageUrl: "https://your-image-url.com/mozzarella_sticks.jpg",
+    imageUrl:
+      "https://res.cloudinary.com/dsbhwx3dw/image/upload/v1740828334/excjjojywntmtrquolor.jpg",
   },
   {
     name: "Guacamole and Chips",
     description: "Fresh homemade guacamole served with crispy tortilla chips.",
     price: 6.99,
     category: "67c03ab86bd70b43fec60860",
-    imageUrl: "https://your-image-url.com/guacamole_chips.jpg",
+    imageUrl:
+      "https://res.cloudinary.com/dsbhwx3dw/image/upload/v1740828409/u3gc7nodq1pzssqnrchs.jpg",
   },
   {
     name: "Grilled Chicken",
     description: "Juicy grilled chicken served with seasonal vegetables.",
     price: 14.99,
-    imageUrl: "https://your-image-url.com/grilled_chicken.jpg",
+    imageUrl:
+      "https://res.cloudinary.com/dsbhwx3dw/image/upload/v1740828547/n1cjsqyxy6snjwqzb040.jpg",
     category: "67c03d916bd70b43fec60867",
   },
   {
     name: "Steak and Fries",
     description: "Tender steak cooked to perfection, served with crispy fries.",
     price: 19.99,
-    imageUrl: "https://your-image-url.com/steak_fries.jpg",
+    imageUrl:
+      "https://res.cloudinary.com/dsbhwx3dw/image/upload/v1740828614/ihloqpy6papx0bncd4oz.jpg",
     category: "67c03d916bd70b43fec60867",
   },
   {
     name: "Spaghetti Bolognese",
     description: "Traditional pasta with a rich and savory meat sauce.",
     price: 12.99,
-    imageUrl: "https://your-image-url.com/spaghetti_bolognese.jpg",
+    imageUrl:
+      "https://res.cloudinary.com/dsbhwx3dw/image/upload/v1740828683/uiacsgeidnvebl8kytsb.jpg",
     category: "67c03d916bd70b43fec60867",
   },
   {

@@ -12,6 +12,6 @@ router.use("/user", userRoutes);
 router.use("/category", categoryRoutes);
 
 router.use("/meal", mealRoutes);
-router.use("/payment", orderRoutes);
+router.use("/order", orderRoutes);
 
 module.exports = router;
